@@ -21,7 +21,11 @@ The files which you will be using are -
 
 The `subscibePublishEvent.py` file is used on the computer to store the data in a database. The `Publish_Event.ino` file is flashed on the Particle Electron which allows to Particle Electron to publish events.
 
+![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Cloning%20Project.png)
+
 You can download the files by simply clicking the `Clone or Download` button and selecting the .zip version. Once it has downloaded, you can simply go into the folder where the file has been downloaded and you should the folder `Retreiving-Events-master` which contains all the files in it.
+
+
 
 ## Libraries
 
