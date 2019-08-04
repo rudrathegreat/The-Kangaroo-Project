@@ -1,4 +1,15 @@
 # Retrieving Events from the Particle Cloud and Saving it in a Database
+
+## Table of Contents
+
+- [Overview](#Overview)
+- [Files](#Files)
+- [Libraries](#Libraries)
+- [PostgreSQL Database](#PostgreSQL Database)
+- [DbVisualiser](#DbVisualiser)
+- [Particle Electron Code](#Particle Electron Code)
+- [The Python Code](#The Python Code)
+- [Further References](#Further References)
 ## Overview
 
 Currently, our project uses two Arduinos, a Particle Electron and a computer to get GPS coordinates from the Arduino to our database stored on a computer. To do that. The Arduino communicates with another Arduino via the LoRa Network adn transmits the data to it. The Arduino then uses serial connections (physical wires) to send the data to the ParticleElectron. The Particle Electron will publish an event, containing the time at which the event was published, the data (in this case, the GPS coordinates from the first Arduino) and which device it came from.
@@ -37,7 +48,7 @@ pip install -r requirements.txt.
 
 You can find the requirements.txt file here - https://github.com/rudrathegreat/Retreiving-Events/blob/master/requirements.txt
 
-## PostgreSQL database
+## PostgreSQL Database
 
 You also need to install PostgreSQL. PostgreSQL allows you to make databases and search for data in databases. To install PostgreSQL, you simply go to the following link - https://www.postgresql.org
 
