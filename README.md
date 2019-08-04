@@ -45,7 +45,19 @@ You also need to install PostgreSQL. PostgreSQL allows you to make databases and
 
 Download the .dmg (macOS) file and follow the installation instructions. After that, you should receive a username and password. **REMEMBER THAT!!!**
 
-Next, open up PSQL (SQL Shell). You can do this by searching it in Spotlight Search (`Command+Space`) or you can go to the PostgreSQL folder and run it from there (The PostgreSQL folder is usually in the Applications Folder). Inside it, it will first confirm your username and password. Once all of that is configured, you can run the following command to create a database - 
+Next, open up PSQL (SQL Shell). You can do this by searching it in Spotlight Search (`Command+Space`) - 
+
+![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Screen%20Shot%202019-08-04%20at%2010.03.03%20am.png)
+
+or you can go to the PostgreSQL folder and run it from there (The PostgreSQL folder is usually in the Applications Folder). - 
+
+![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Screen%20Shot%202019-08-04%20at%2010.04.59%20am.png)
+
+Inside it, it will first confirm your username and password. - 
+
+![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Screen%20Shot%202019-08-04%20at%2010.06.02%20am.png)
+
+Once all of that is configured, you can run the following command to create a database - 
 
 ```Bash
 
