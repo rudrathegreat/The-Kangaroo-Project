@@ -51,7 +51,7 @@ or you can go to the PostgreSQL folder and run it from there (The PostgreSQL fol
 
 ![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Screen%20Shot%202019-08-04%20at%2010.04.59%20am.png)
 
-Inside it, it will first confirm your username and password. - 
+Inside it, it will first confirm your username and password. Just press enter if the parameter in the square brackets matches what you were going to give to psql. My username is postgres, so I am just going to hit enter to tell PSQL that I want to use the parameter inside the square brackets - 
 
 ![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Screen%20Shot%202019-08-04%20at%2010.06.02%20am.png)
 
