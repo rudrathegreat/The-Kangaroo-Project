@@ -9,7 +9,6 @@
 - [Ftp](#Ftp)
 - [Uploading the Code](#Uploading-the-Code)
 - [Further References](#Further-References)
-
 ## Overview
 
 Currently, our project uses two Arduinos, a Particle Electron and a computer to get GPS coordinates from the Arduino to our database stored on a computer. To do that. The Arduino communicates with another Arduino via the LoRa Network adn transmits the data to it. The Arduino then uses serial connections (physical wires) to send the data to the ParticleElectron. The Particle Electron will publish an event, containing the time at which the event was published, the data (in this case, the GPS coordinates from the first Arduino) and which device it came from.
