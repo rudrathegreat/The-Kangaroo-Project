@@ -56,7 +56,7 @@ Download the .dmg (macOS) file and follow the installation instructions. After t
 
 Next, open up PSQL (SQL Shell). You can do this by searching it in Spotlight Search (`Command+Space`) - 
 
-![Image description](https://github.com/rudrathegreat/Retreiving-Events/blob/master/Screen%20Shot%202019-08-04%20at%2010.03.03%20am.png)
+![Image description](https://github.com/rudrathegreat/The-Kangaroo-Project/blob/Publishing-and-Subscribing-Events/Screen%20Shot%202019-08-04%20at%2010.03.03%20am.png)
 
 or you can go to the PostgreSQL folder and run it from there (The PostgreSQL folder is usually in the Applications Folder). - 
 
